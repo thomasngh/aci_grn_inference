@@ -1,0 +1,9 @@
+Gene	uvrD	lexA	umuDC	recA	uvrA	uvrY	ruvA	polB
+uvrD	0	-1	0	0	0	0	0	0
+lexA	0	-1	0	1	0	0	0	0
+umuDC	0	-1	0	0	0	0	0	0
+recA	0	-1	0	0	0	0	0	0
+uvrA	0	-1	0	0	0	0	0	0
+uvrY	0	-1	0	0	0	0	0	0
+ruvA	0	-1	0	0	0	0	0	0
+polB	0	-1	0	0	0	0	0	0
