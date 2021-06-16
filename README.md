@@ -1,6 +1,6 @@
-## Inference of Gene Regulatory Network with multi-objective optimisation (OMOPSO)
+## Inference of a gene regulatory network by applying OMOPSO to the S-System and half-system
 
-The problem model is adapted from Khan et. al. doi: 10.1109/TCBB.2019.2892450
+The problem models are adapted from Khan et. al. doi: 10.1109/TCBB.2019.2892450 and Hurtado et. al. doi: 10.1007/s10489-020-01891-1
 
 The optimization algorithm from Hurtado et. al. doi: 10.1007/s10489-020-01891-1
 
